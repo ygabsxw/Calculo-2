@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navega para o diretório onde os arquivos fonte estão
-cd src
+cd Ativ1/src
 
 # Compila todos os arquivos Java dentro de src
 javac -d ../bin *.java
